@@ -1,0 +1,24 @@
+.button1 {
+  background-color: red;
+}
+.button2 {
+  background-color: green;
+  padding: 10;
+}
+
+.header1 {
+  color: palevioletred;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+.square1 {
+  background-color: blue;
+  color: yellow;
+  padding: 10px;
+  margin: 10px;
+}
+
+
+
+git config --global user.email "tejirstark@gmail.com"
+git config --global user.name "onsidefantasy0"
